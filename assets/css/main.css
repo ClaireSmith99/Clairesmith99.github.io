@@ -80,7 +80,7 @@
 
 	a {
 		color: #fff;
-		color: rgb (202,255,183);
+		color:  rgba(255, 255, 255, 0.85);
 		text-decoration: none;
 		-moz-transition: color 0.25s ease-in-out;
 		-webkit-transition: color 0.25s ease-in-out;
@@ -89,7 +89,7 @@
 	}
 
 		a:hover {
-			color: #d64760;
+			color: #a1ed6b;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
